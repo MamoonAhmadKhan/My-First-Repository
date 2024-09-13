@@ -14,6 +14,10 @@ This is my first repository.
 <p>To verify remote : <b>git remote -v</b></p>
 <p>To check branch : <b>git branch</b></p>
 <p>To change the branch : <b>git branch -M main</b></p>
+<p>To add a new branch : <b>git checkout -b branchName</b></p>
+<p>To go to the different branch : <b>git checkout branchName</b></p>
+<p>To delete a branch : <b>git branch -d branchName</b></p>
+<p>To merge the branches : <b>git merge branchName</b></p>
 <br>
 
 <h2> WORK FLOW of LOCAL GIT </h2>
