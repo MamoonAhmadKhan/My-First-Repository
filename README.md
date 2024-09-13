@@ -17,11 +17,12 @@ This is my first repository.
 <br>
 
 <h2> WORK FLOW of LOCAL GIT </h2>
-<b>GitHub Repo</b>
-<b>Clone</b>
-<b>Changes</b>
-<b>Add</b>
-<b>Commit</b>
-<b>Push</b>
+<b>GitHub Repo</b><br>
+<b>Clone</b><br>
+<b>Changes</b><br>
+<b>Add</b><br>
+<b>Commit</b><br>
+<b>Push</b><br>
 
+<br>
 Author - <b>Mamoon Ahmad Khan</b>
