@@ -3,4 +3,4 @@ Hello! I am Mamoon Ahmad.
 <br>
 This is my first repository.
 <br>
-Author - Mamoon Ahmad 
+Author - Mamoon Ahmad Khan
